@@ -1,0 +1,1 @@
+// the output is 1, because it happens before the setTimeout function ends.
